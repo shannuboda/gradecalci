@@ -8,7 +8,7 @@
  body{
  background-image:url(img1.jpg);
  background-size: cover;
- background-attachment: fixed;
+ 
  }
  
  .loginBox input[type="submit"]
